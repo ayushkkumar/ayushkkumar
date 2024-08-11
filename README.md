@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushkkumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me - ayushkumarx8@gmail.com
+- 📫 How to reach me - ayushkx28@gmail.com
 
 <!---
 ayushkkumar/ayushkkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
